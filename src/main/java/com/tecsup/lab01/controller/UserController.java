@@ -1,5 +1,4 @@
 package com.tecsup.lab01.controller;
-import java.util.Scanner;
 
 import com.tecsup.lab01.model.User;
 
